@@ -1,4 +1,3 @@
-# D3N
 
 ## Ranker
 
